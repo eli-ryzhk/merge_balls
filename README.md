@@ -22,9 +22,9 @@ The game ends when the balls reach the upper limit of the box.
 ## Screenshots
 
 <p align="center">
-  <img src="README_Image/screenshots/c1.jpg" width="250"/>
-  <img src="README_Image/screenshots/c2.jpg" width="250"/>
-  <img src="README_Image/screenshots/c3.jpg" width="250"/>
+  <img src="README_Image/screenshots/c1.jpg" width="280"/>
+  <img src="README_Image/screenshots/c2.jpg" width="280"/>
+  <img src="README_Image/screenshots/c3.jpg" width="280"/>
 </p>
 <p align="center">
   <img src="README_Image/screenshots/v1.jpg" width="300"/>
