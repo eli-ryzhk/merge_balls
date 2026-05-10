@@ -73,8 +73,8 @@ This approach allows rapid content updates and experimentation with different st
 
 ## Controls
 
-- **Mouse / A-D** — Move ball
-- **Left Mouse Button / Space** — Drop ball
+- **Mouse** — Move ball
+- **Left Mouse Button** — Drop ball
 
 ## Built With
 
