@@ -27,19 +27,19 @@ The game ends when the balls reach the upper limit of the box.
   <img src="README_Image/screenshots/c3.jpg" width="270"/>
 </p>
 <p align="center">
-  <img src="README_Image/screenshots/v1.jpg" width="300"/>
-  <img src="README_Image/screenshots/v2.jpg" width="300"/>
-  <img src="README_Image/screenshots/v3.jpg" width="300"/>
+  <img src="README_Image/screenshots/v1.jpg" width="270"/>
+  <img src="README_Image/screenshots/v2.jpg" width="270"/>
+  <img src="README_Image/screenshots/v3.jpg" width="270"/>
 </p>
 <p align="center">
-  <img src="README_Image/screenshots/j1.jpg" width="300"/>
-  <img src="README_Image/screenshots/j2.jpg" width="300"/>
-  <img src="README_Image/screenshots/j3.jpg" width="300"/>
+  <img src="README_Image/screenshots/j1.jpg" width="270"/>
+  <img src="README_Image/screenshots/j2.jpg" width="270"/>
+  <img src="README_Image/screenshots/j3.jpg" width="270"/>
 </p>
 <p align="center">
-  <img src="README_Image/screenshots/b1.jpg" width="300"/>
-  <img src="README_Image/screenshots/b2.jpg" width="300"/>
-  <img src="README_Image/screenshots/b3.jpg" width="300"/>
+  <img src="README_Image/screenshots/b1.jpg" width="270"/>
+  <img src="README_Image/screenshots/b2.jpg" width="270"/>
+  <img src="README_Image/screenshots/b3.jpg" width="270"/>
 </p>
 
 ---
